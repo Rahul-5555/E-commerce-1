@@ -10,7 +10,7 @@ const app = express();
 
 // Correctly configure CORS options
 app.use(cors({
-  origin: [process.env.FRONTEND_URL, "https://e-commerce-1-frontend.onrender.com"],
+  origin: [process.env.FRONTEND_URL, "https://e-commerce-1-backend.onrender.com"],
   credentials: true,
 }));
 
