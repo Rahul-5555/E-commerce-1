@@ -1,4 +1,4 @@
-const backendDomain = "https://e-commerce-1-backend.onrender.com"
+const backendDomain = "http://localhost:8080"
 
 
 // api end points
