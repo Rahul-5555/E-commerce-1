@@ -1,5 +1,5 @@
-const backendDomain = "http://localhost:8080"
-// const backendDomain = "https://e-commerce-1-backend.onrender.com"
+// const backendDomain = "http://localhost:8080"
+const backendDomain = "https://e-commerce-1-backend.onrender.com"
 // const backendDomain = process.env.REACT_APP_BACKEND_URL
 
 
